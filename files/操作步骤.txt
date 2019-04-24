@@ -1,0 +1,35 @@
+项目地址：https://github.com/DoubleLabyrinth/navicat-keygen
+项目克隆：https://github.com/cnznet/navicat-keygen
+
+1、安装 navicat12112_premium_cs_x64.exe
+会安装到目录 C:\Program Files\PremiumSoft\Navicat Premium 12
+
+2、下载 https://github.com/DoubleLabyrinth/navicat-keygen/releases/download/v3.1/navicat-keygen-for-x64.zip
+
+3、解压 navicat-keygen-for-x64.zip 得到 navicat-keygen.exe 和 navicat-patcher.exe
+
+4、替换激活公钥
+管理员权限打开cmd
+执行：navicat-patcher.exe "C:\Program Files\PremiumSoft\Navicat Premium 12"
+
+5、使用navicat-keygen.exe来生成序列号和激活码
+navicat-keygen.exe -text .\RegPrivateKey.pem
+然后选择 1 -> 1 -> 12 -> Dong -> PDF.US 不要关闭命令行
+断开网络并打开Navicat。找到注册窗口，并填入keygen给你的序列号。然后点击激活按钮。
+在线激活肯定会失败，这时候Navicat会询问你是否手动激活，直接选
+pqOny4ZQY2BB84fo524GWtX5dxqb8xj/34Oi+qXC1cI7g+rIHbCiYMukhPPde3PxjDlVyGI982jR3tSGWILFguJn/HfjE3OGjHMrYmvBvMXyLfysmMG48W5fQggla1v6jWvPYvXDcII4dfZHGGHG9WyvaZ3xFvOaRXSA5m/+wSgO4QAo850I8UUJgnKECqlIb0NMaMkzJk2mpQE1rirnP22Oezjebewcnv/K+p70xuwQwQP3Y8iN6ZbjirTWoubX8iDzgWcqCq80H+FNkgj8BhfZwpyh2Wa8cA2aA7F1iVriLtBmObDZ5D1Blx4DKjoGDUh4yfIQOIBjFacnTWqyYA==
+在手动激活窗口你会得到一个请求码，复制它并把它粘贴到keygen里。连按至少两下回车结束输入
+会得到一个看似用Base64编码的激活码。直接复制它，并把它粘贴到Navicat的手动激活窗口，最后点激活按钮
+Request Info:
+{"K":"NAVP47HAAPOCS7ZP", "DI":"7kIoBPQFJWiVpesglAJz", "P":"WIN"}
+
+Response Info:
+{"K":"NAVP47HAAPOCS7ZP","DI":"7kIoBPQFJWiVpesglAJz","N":"Dong","O":"PDF.US","T":1556074621}
+
+License:
+e19Q9gm3K0xXvpcXja6fZNvAh7+4fkLU+Cqc1H+4Jsnb3ui1AEVyvu+4jRSq/xSa
+v49O6FznLphw0zXAUsHhrng7kSomTbsQ9K7C8cpeF84W9BZozlbomd6jy/D5XDuz
+7xsbvcmfOqbEcyV32SPnw8KqBYkU1sR1i7sa68xpwDlo0iV7UUo6kcJnxKiuBOGA
+zsAPszJaJgGJ/E3MZVUbUxZJvyphuVyoIS1pvh842O5n1H/Judnb+y58ils5xddH
+sLykPa5jlydAE3S+g1r5leF2BJbobWnRv7DSUFGBRK6rQXJ8Dx9tAcRr98Au2UXD
++DfQcQbkMuBsUQDsmiJcLQ==
